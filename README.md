@@ -4,7 +4,7 @@
 
 1、用户表
 
-调度人员表——dispatch_info
+调度人员表——user_info
 
 2、信息表
 
